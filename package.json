@@ -1,6 +1,6 @@
 {
   "name": "ut-angular-toast",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Angular directive that display a toasted notification at the top right corner of your application.",
   "repository": {
     "type": "git",
