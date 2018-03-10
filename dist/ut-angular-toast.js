@@ -1,7 +1,7 @@
 /*!
  * ut-angular-toast
  * https://github.com/untemps/ut-angular-toast
- * Version: 1.0.0 - 2018-03-10T01:17:29.349Z
+ * Version: 1.0.0 - 2018-03-10T01:19:45.911Z
  * License: MIT
  */
 
